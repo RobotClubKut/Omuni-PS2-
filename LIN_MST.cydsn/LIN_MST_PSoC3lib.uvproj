@@ -689,21 +689,6 @@
               <FilePath>.\Generated_Source\PSoC3\Clock_2.h</FilePath>
             </File>
             <File>
-              <FileName>Pin_1.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1.c</FilePath>
-            </File>
-            <File>
-              <FileName>Pin_1.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1.h</FilePath>
-            </File>
-            <File>
-              <FileName>Pin_1_aliases.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1_aliases.h</FilePath>
-            </File>
-            <File>
               <FileName>SW_1.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Generated_Source\PSoC3\SW_1.c</FilePath>
@@ -732,6 +717,21 @@
               <FileName>SW_2_aliases.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Generated_Source\PSoC3\SW_2_aliases.h</FilePath>
+            </File>
+            <File>
+              <FileName>Arm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm.c</FilePath>
+            </File>
+            <File>
+              <FileName>Arm.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm.h</FilePath>
+            </File>
+            <File>
+              <FileName>Arm_aliases.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm_aliases.h</FilePath>
             </File>
           </Files>
         </Group>
@@ -1424,21 +1424,6 @@
               <FilePath>.\Generated_Source\PSoC3\Clock_2.h</FilePath>
             </File>
             <File>
-              <FileName>Pin_1.c</FileName>
-              <FileType>1</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1.c</FilePath>
-            </File>
-            <File>
-              <FileName>Pin_1.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1.h</FilePath>
-            </File>
-            <File>
-              <FileName>Pin_1_aliases.h</FileName>
-              <FileType>5</FileType>
-              <FilePath>.\Generated_Source\PSoC3\Pin_1_aliases.h</FilePath>
-            </File>
-            <File>
               <FileName>SW_1.c</FileName>
               <FileType>1</FileType>
               <FilePath>.\Generated_Source\PSoC3\SW_1.c</FilePath>
@@ -1467,6 +1452,21 @@
               <FileName>SW_2_aliases.h</FileName>
               <FileType>5</FileType>
               <FilePath>.\Generated_Source\PSoC3\SW_2_aliases.h</FilePath>
+            </File>
+            <File>
+              <FileName>Arm.c</FileName>
+              <FileType>1</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm.c</FilePath>
+            </File>
+            <File>
+              <FileName>Arm.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm.h</FilePath>
+            </File>
+            <File>
+              <FileName>Arm_aliases.h</FileName>
+              <FileType>5</FileType>
+              <FilePath>.\Generated_Source\PSoC3\Arm_aliases.h</FilePath>
             </File>
           </Files>
         </Group>
